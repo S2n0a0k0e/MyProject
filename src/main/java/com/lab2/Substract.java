@@ -1,4 +1,4 @@
-package piotr_package;
+package com.lab2;
 
 public class Substract {
     public static void substractN(int a, int b){

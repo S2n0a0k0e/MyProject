@@ -1,4 +1,4 @@
-package piotr_package;
+package com.lab2;
 
 class Add {
   public static void addN(final int a, final int b) {

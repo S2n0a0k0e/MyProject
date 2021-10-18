@@ -1,0 +1,23 @@
+@startuml
+'https://plantuml.com/class-diagram
+
+
+
+
+
+class Main {
+
+}
+
+class Add {
+
+}
+
+class Substract {
+
+}
+
+Substract <|-- Main
+Add <|-- Main
+
+@enduml

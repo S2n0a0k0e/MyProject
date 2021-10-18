@@ -1,4 +1,4 @@
-package piotr_package;
+package com.lab2;
 
 import java.util.Scanner;
 
